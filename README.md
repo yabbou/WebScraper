@@ -1,2 +1,2 @@
 # WebScraper
-Web scraping emails, uploaded to database (pending: multi-thread concurrency)
+Web scraping emails using multiple threads, then upload to database 
